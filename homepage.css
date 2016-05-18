@@ -1,4 +1,40 @@
 body {
 	background-image: url("http://katielendel.com/wp-content/uploads/2015/08/o-SUCCESS-facebook-3.jpg");
+	font-family: sans-serif;
+}
+p {
+	color: blue;
+	font-size: 16px
+}
+ul {
+	font-size: 14px
+}
+ol {
+	font-size: 14px
+}
+ h1 {
+ 	border-style: solid;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 20px;
+    border-color: purple;
+ 	text-transform: uppercase;
+ 	color: brown;
 }
 
+ h2 {border-style: solid;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 20px;
+    border-color: purple;
+ 	text-decoration: underline;
+ 	color: brown;
+ }
+ #intro {
+ 	border: 1px;
+ 	border-style: solid;
+ 	border-color: black;
+ }
+ .spotlight {
+ 	background-color: null;
+ }
